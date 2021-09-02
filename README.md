@@ -1,2 +1,2 @@
-# DataScience_FreeCodeCamp_Projects
-FreeCodeCamp DataScience projects
+# DataScience_Projects
+Projects based on the Data Analysis & Data visualization techniques in Python. Open the relevant folder for more details.
