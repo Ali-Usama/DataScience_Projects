@@ -32,14 +32,4 @@ Unit tests are written for you under `test_module.py`.
 
 For development, you can use `main.py` to test your functions. Click the "run" button and `main.py` will run.
 
-### Testing 
 
-We imported the tests from `test_module.py` to `main.py` for your convenience. The tests will run automatically whenever you hit the "run" button.
-
-### Submitting
-
-Copy your project's URL and submit it to freeCodeCamp.
-
-### Dataset Source
-
-Dua, D. and Graff, C. (2019). UCI Machine Learning Repository [http://archive.ics.uci.edu/ml]. Irvine, CA: University of California, School of Information and Computer Science.
